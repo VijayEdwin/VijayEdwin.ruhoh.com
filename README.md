@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A default blog scaffold for **ruhoh** compatible static blog parsers.
 
 **This version is for [ruhohSpec v1.0](http://ruhoh.com/universal-blog-api/) and is only compatible with ruhoh gem 1.0.x.x**
@@ -33,3 +34,9 @@ For all publishing options including self-hosting see: <http://ruhoh.com/usage/p
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
 
+=======
+VijayEdwin.ruhoh.com
+====================
+
+#A  blog for this account!
+>>>>>>> 7b421e7da6c96e360d615c803fa6c0ae5091fcb4
